@@ -1,0 +1,39 @@
+
+@media (max-width: 767px) {
+	.img-logo {
+		width: 90px;
+		height: 25px;
+	}
+}
+
+
+@media (max-width: 767px){
+	.social {
+		position: absolute;
+		display: inline;
+		top: unset;
+		left: unset;
+		float: none;
+		
+
+	}
+
+	.background-img {
+		background-position: center 100px;
+		height: 97.5%;
+	}
+  
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
